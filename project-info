@@ -1,0 +1,5 @@
+This project is about the user information table which stores data in 
+a json file. 
+
+It uses Express, React, and Node.
+Thereby, its name is ERN
